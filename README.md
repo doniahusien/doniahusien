@@ -24,14 +24,6 @@ I love building modern, fast, and user-friendly web applications using **Next.js
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=doniahusien&show_icons=true&theme=tokyonight" alt="GitHub Stats" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doniahusien&layout=compact&theme=tokyonight" alt="Top Languages" />  
-</p>  
-
----
-
 ## 🌍 Let's Connect!  
 <p align="center">  
   <a href="https://www.linkedin.com/in/donia-hussien-8864b124b/" target="_blank">  
@@ -42,9 +34,4 @@ I love building modern, fast, and user-friendly web applications using **Next.js
   </a>  
 </p>  
 
----
 
-👀 **Profile Views**  
-<p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=doniahusien&color=blue" alt="Profile Views" />  
-</p>  
