@@ -29,16 +29,9 @@ I build **modern, responsive, and high-performance web applications**. Passionat
 
 ---
 
-## 🚀 Projects
-
-### **SnapCart** – E-commerce Frontend Project
-Built a responsive e-commerce frontend with **Vue 3, Vite, Pinia, Tailwind CSS**, integrating product pages, interactive cart, and search filters.  
-
-### **DentaLink** – Dental Platform
-Frontend built with **Next.js & Redux Toolkit**. Features patient management, profile editing, and integration with AI chatbots.  
-
-### **Vue Meals Finder** – Recipe App
-A simple recipe browsing app using **Vue 3 + Vite + TheMealDB API**. Users can search meals, filter by category, and view detailed instructions.  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=donia-hussien&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=donia-hussien&theme=radical)
+![Donia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=donia-hussien&show_icons=true&theme=radical)
 
 ---
 
