@@ -1,37 +1,62 @@
-# 👋 Hi, I'm Donia Hussien!  
+# 👋 Hi, I'm Donia Hussien
 
-🚀 **Frontend Developer | Next.js & Redux Toolkit Specialist**  
+🚀 **Frontend Developer | React, Next.js & Vue.js Specialist**  
 
-I love building modern, fast, and user-friendly web applications using **Next.js, React, and Redux Toolkit**. Passionate about creating sleek UIs, improving performance, and exploring new technologies.  
-
----
-
-## 💡 What I Do  
-✨ **Frontend Development** – Crafting sleek, responsive, and interactive UIs  
-⚡ **Next.js & React** – Building scalable and dynamic web apps  
-🔹 **State Management** – Mastering Redux Toolkit for smooth data flow  
-🎨 **UI/UX Design** – Creating pixel-perfect designs with Tailwind CSS  
+I build **modern, responsive, and high-performance web applications**. Passionate about creating smooth user experiences, exploring new technologies, and mastering both **React ecosystem (Next.js, Redux Toolkit)** and **Vue ecosystem (Vue 3, Pinia)**.
 
 ---
 
-## 🛠️ Tech Stack  
+## 💻 What I Do
+
+- **Frontend Development:** Crafting sleek, responsive, and interactive UIs  
+- **React & Next.js:** Building scalable and dynamic web apps  
+- **Vue.js & Pinia:** Developing reactive and maintainable apps  
+- **State Management:** Mastering Redux Toolkit & Pinia for smooth data flow  
+- **UI/UX Design:** Pixel-perfect interfaces with Tailwind CSS  
+
+---
+
+## 🛠️ Tech Stack
+
 <p align="center">  
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />  
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />  
-  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />  
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />  
-</p>  
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Pinia-000000?style=for-the-badge&logo=pinia&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />  
+</p>
 
 ---
 
-## 🌍 Let's Connect!  
+## 🚀 Projects
+
+### **SnapCart** – E-commerce Frontend Project
+Built a responsive e-commerce frontend with **Vue 3, Vite, Pinia, Tailwind CSS**, integrating product pages, interactive cart, and search filters.  
+
+### **DentaLink** – Dental Platform
+Frontend built with **Next.js & Redux Toolkit**. Features patient management, profile editing, and integration with AI chatbots.  
+
+### **Vue Meals Finder** – Recipe App
+A simple recipe browsing app using **Vue 3 + Vite + TheMealDB API**. Users can search meals, filter by category, and view detailed instructions.  
+
+---
+
+## 📄 My CV
+You can check out or download my CV here:  
+[**Donia Hussien CV**](https://drive.google.com/drive/u/1/my-drive)
+
+---
+
+## 🌍 Let's Connect
 <p align="center">  
   <a href="https://www.linkedin.com/in/donia-hussien-8864b124b/" target="_blank">  
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />  
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />  
   </a>  
   <a href="https://x.com/donia__hussien" target="_blank">  
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />  
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />  
   </a>  
-</p>  
-
-
+  <a href="mailto:donhus862003@gmail.com" target="_blank">  
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  
+  </a>  
+</p>
