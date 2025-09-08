@@ -26,6 +26,7 @@ I build **modern, responsive, and high-performance web applications**. Passionat
   <img src="https://img.shields.io/badge/Pinia-000000?style=for-the-badge&logo=pinia&logoColor=white" />  
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />  
 </p>
+
 ---
 
 ## 📄 My CV
