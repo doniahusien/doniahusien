@@ -31,7 +31,7 @@ I build **modern, responsive, and high-performance web applications**. Passionat
 
 ## 📄 My CV
 You can check out or download my CV here:  
-[**Donia Hussien CV**](https://drive.google.com/drive/u/1/my-drive)
+[**Donia Hussien CV**](https://drive.google.com/file/d/1zkZaOfhzQY17bOemCX8j0i5ZXEnJGUVP/view?usp=sharing)
 
 ---
 
